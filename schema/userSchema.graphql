@@ -1,0 +1,8 @@
+type User {
+   id: ID!
+   firstName:String
+   lastName:String
+   role:String
+   created_at:String
+   updated_at:String
+}

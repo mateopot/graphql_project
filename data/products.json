@@ -1,0 +1,22 @@
+[
+  {
+    "id": "5312f04b-7212-43c8-8ae4-d96f32489dfe",
+    "name": "XBOX",
+    "description": "Video game console",
+    "reference": "ABCD23",
+    "prix": 200,
+    "stock": 2,
+    "created_at": "5/4/2022, 3:29:31 PM",
+    "updated_at": "5/4/2022, 3:29:31 PM"
+  },
+  {
+    "id": "900c0e10-619a-472b-ab98-0d901b57ba35",
+    "name": "PS5",
+    "description": "Video game console",
+    "reference": "ABCD87",
+    "prix": 300,
+    "stock": 2,
+    "created_at": "5/4/2022, 3:29:41 PM",
+    "updated_at": "5/4/2022, 3:29:41 PM"
+  }
+]

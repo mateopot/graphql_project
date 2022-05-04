@@ -1,0 +1,18 @@
+[
+  {
+    "id": "2a6a1eb4-ae04-4b75-8dea-307ab39c1b44",
+    "firstName": "Jean",
+    "lastName": "Marie",
+    "role": "Developper",
+    "created_at": "5/4/2022, 3:24:29 PM",
+    "updated_at": "5/4/2022, 3:25:06 PM"
+  },
+  {
+    "id": "9d63846e-5687-4555-8541-d9d63eed6311",
+    "firstName": "Theo",
+    "lastName": "Demets",
+    "role": "Developper",
+    "created_at": "5/4/2022, 3:30:34 PM",
+    "updated_at": "5/4/2022, 3:30:34 PM"
+  }
+]

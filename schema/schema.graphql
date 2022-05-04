@@ -1,0 +1,12 @@
+type Query {
+    users: [User]
+    products: [Product]
+}
+type Mutation {
+   createUser(firstName: String, lastName: String, role: String): User!,
+   updateUser(id: ID!, firstName: String, lastName: String, role: String): [User],
+   deleteUser(id: ID!): [User],
+   createProduct(name: String, description: String, reference: String, prix: Int, stock: Int): Product!,
+   updateProduct(id: ID!, name: String, description: String, reference: String, prix: Int, stock: Int): [Product],
+   deleteProduct(id: ID!): [Product],
+}
